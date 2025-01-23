@@ -4,13 +4,12 @@
 'OperatorsExample
 'https://github.com/MalachiMarlow/OperatorsExample.git
 
-
-
 Module SayMyName
 
     Sub Main()
-        Console.WriteLine("What is your name?")
-        Console.Write(Malachi Marlow)
+        Console.WriteLine("What is your name?") 'Asking users name
+        Console.WriteLine("My name is,") 'User enters name after "is"
+
     End Sub
 
 End Module
