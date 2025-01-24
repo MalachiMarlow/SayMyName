@@ -1,7 +1,7 @@
 ﻿'Malachi Marlow
 'Spring 2025
 'RCET2265
-'OperatorsExample
+'SayMyName
 'https://github.com/MalachiMarlow/SayMyName.git
 
 Option Explicit On
