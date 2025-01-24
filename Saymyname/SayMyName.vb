@@ -5,6 +5,7 @@
 'https://github.com/MalachiMarlow/SayMyName.git
 
 Option Explicit On
+Option Strict On
 Module SayMyName
 
     Sub Main()
