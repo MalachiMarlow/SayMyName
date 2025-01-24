@@ -4,14 +4,16 @@
 'OperatorsExample
 'https://github.com/MalachiMarlow/SayMyName.git
 
+Option Explicit On
 Module SayMyName
 
     Sub Main()
-        Console.WriteLine("What is your name?")
-        Dim encoding = Console.InputEncoding
+        Dim userInput As String
 
-        Console.Read()
-        Console.WriteLine("Hello!")
+        Console.WriteLine("What is your name?") 'Ask your name
+
+        userInput = Console.ReadLine() 'Reads user input on next line
+        Console.WriteLine("Hello! " & userInput) 'greets previous input
 
     End Sub
 
