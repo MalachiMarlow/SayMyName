@@ -7,8 +7,11 @@
 Module SayMyName
 
     Sub Main()
-        Console.WriteLine("What is your name?") 'Asking users name
-        Console.WriteLine("My name is,") 'User enters name after "is"
+        Console.WriteLine("What is your name?")
+        Dim encoding = Console.InputEncoding
+
+        Console.Read()
+        Console.WriteLine("Hello!")
 
     End Sub
 
