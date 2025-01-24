@@ -2,7 +2,7 @@
 'Spring 2025
 'RCET2265
 'OperatorsExample
-'https://github.com/MalachiMarlow/OperatorsExample.git
+'https://github.com/MalachiMarlow/SayMyName.git
 
 Module SayMyName
 
